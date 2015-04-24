@@ -1,0 +1,27 @@
+@-moz-document domain("twitter.com") {
+	.wrapper {
+		width: calc !important;
+	}
+
+	.dashboard, .content-main {
+		width: auto !important;
+		float: none !important;
+	}
+
+	.wtf-module,.trends,.site-footer,.Footer,.profile-header-inner,.newest-members-module,.stream-item-footer a.details,.module.DashboardProfileCard,.js-nav-links,div.component:nth-child(3){
+		display: none !important;
+	}
+
+	.TwitterPhoto-media,.cards-base .media-forward {
+		max-height: none !important;
+	}
+
+	.TwitterPhoto-media img,.cards-base .media-forward img {
+		margin-top: auto !important;
+	}
+	
+	.with-media-forward .expanded-content .card2 .media-preview{
+		width: auto !important;
+	}
+	
+}
