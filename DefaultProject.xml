@@ -53,27 +53,7 @@
       <DeleteIntervalProject StartTime="743849197" EndTime="1689856000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
-    <IsFrameCroppedManually>false</IsFrameCroppedManually>
-  </Track>
-  <Track xsi:type="VideoTrackProject">
-    <FilePath>\\192.168.16.25\w\backup\source\[tbff] Round 2_Kendra Khaleesi, Naveen Ora-1080.mp4</FilePath>
-    <Title>[tbff] Round 2_Kendra Khaleesi, Naveen Ora-1080</Title>
-    <AudioCollection />
-    <AudioCollectionIndex>0</AudioCollectionIndex>
-    <SubtitleCollection />
-    <SubtitleIndex>-1</SubtitleIndex>
-    <SubtitlesFontFamily>Tahoma</SubtitlesFontFamily>
-    <SubtitlesFontSize>20</SubtitlesFontSize>
-    <EditRotate>0</EditRotate>
-    <DeleteInterval>
-      <DeleteIntervalProject StartTime="0" EndTime="608945424" />
-      <DeleteIntervalProject StartTime="681672696" EndTime="892765273" />
-      <DeleteIntervalProject StartTime="937052179" EndTime="968369944" />
-      <DeleteIntervalProject StartTime="1023374114" EndTime="1546816000" />
-    </DeleteInterval>
-    <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -120,7 +100,7 @@
     <Join>true</Join>
   </Options>
   <LastConvertGroupName>MP4</LastConvertGroupName>
-  <PresetIndex>0</PresetIndex>
+  <PresetIndex>1</PresetIndex>
   <ConvertFolder>D:\sync\n7</ConvertFolder>
   <DVDMenuTemplateIndex>0</DVDMenuTemplateIndex>
   <BDMenuIndex>0</BDMenuIndex>
