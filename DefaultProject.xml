@@ -39,24 +39,6 @@
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
-    <FilePath>\\192.168.16.25\w\backup\source\[tbff] teenage threeway 14-11-06_naveen ora, ali rae-1080.mp4</FilePath>
-    <Title>[tbff] teenage threeway 14-11-06_naveen ora, ali rae-1080</Title>
-    <AudioCollection />
-    <AudioCollectionIndex>0</AudioCollectionIndex>
-    <SubtitleCollection />
-    <SubtitleIndex>-1</SubtitleIndex>
-    <SubtitlesFontFamily>Tahoma</SubtitlesFontFamily>
-    <SubtitlesFontSize>20</SubtitlesFontSize>
-    <EditRotate>0</EditRotate>
-    <DeleteInterval>
-      <DeleteIntervalProject StartTime="0" EndTime="533048530" />
-      <DeleteIntervalProject StartTime="743849197" EndTime="1689856000" />
-    </DeleteInterval>
-    <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>true</IsFrameCropped>
-    <IsFrameCroppedManually>false</IsFrameCroppedManually>
-  </Track>
-  <Track xsi:type="VideoTrackProject">
     <FilePath>\\192.168.16.25\w\backup\source\[wowg] memorable vacation_Lucy Li, Ester-1080.mp4</FilePath>
     <Title>[wowg] memorable vacation_Lucy Li, Ester-1080</Title>
     <AudioCollection />
@@ -71,7 +53,7 @@
       <DeleteIntervalProject StartTime="538794800" EndTime="1534909000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -100,7 +82,7 @@
     <Join>true</Join>
   </Options>
   <LastConvertGroupName>MP4</LastConvertGroupName>
-  <PresetIndex>1</PresetIndex>
+  <PresetIndex>0</PresetIndex>
   <ConvertFolder>D:\sync\n7</ConvertFolder>
   <DVDMenuTemplateIndex>0</DVDMenuTemplateIndex>
   <BDMenuIndex>0</BDMenuIndex>
