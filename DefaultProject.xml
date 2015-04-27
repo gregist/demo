@@ -43,6 +43,24 @@
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
+    <FilePath>\\192.168.16.25\w\backup\source\[ClubSandy] 2014-09-28 Obsessed With Cock_Paula Shy-1080.mp4</FilePath>
+    <Title>[ClubSandy] 2014-09-28 Obsessed With Cock_Paula Shy-1080</Title>
+    <AudioCollection />
+    <AudioCollectionIndex>0</AudioCollectionIndex>
+    <SubtitleCollection />
+    <SubtitleIndex>-1</SubtitleIndex>
+    <SubtitlesFontFamily>Tahoma</SubtitlesFontFamily>
+    <SubtitlesFontSize>20</SubtitlesFontSize>
+    <EditRotate>0</EditRotate>
+    <DeleteInterval>
+      <DeleteIntervalProject StartTime="0" EndTime="330520000" />
+      <DeleteIntervalProject StartTime="565360000" EndTime="1739280000" />
+    </DeleteInterval>
+    <IsTrackEdited>true</IsTrackEdited>
+    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCroppedManually>false</IsFrameCroppedManually>
+  </Track>
+  <Track xsi:type="VideoTrackProject">
     <FilePath>\\192.168.16.25\w\backup\source\[phd] Play Before Work_Sammie Daniels, Bella Danger-1080.mp4</FilePath>
     <Title>[phd] Play Before Work_Sammie Daniels, Bella Danger-1080</Title>
     <AudioCollection />
@@ -75,7 +93,7 @@
       <DeleteIntervalProject StartTime="748479329" EndTime="1849707000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -93,7 +111,7 @@
       <DeleteIntervalProject StartTime="743807496" EndTime="1689856000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -111,7 +129,7 @@
       <DeleteIntervalProject StartTime="735008497" EndTime="1754134000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -126,6 +144,9 @@
     <EditRotate>0</EditRotate>
     <DeleteInterval>
       <DeleteIntervalProject StartTime="0" EndTime="557657100" />
+      <DeleteIntervalProject StartTime="666699367" EndTime="671437433" />
+      <DeleteIntervalProject StartTime="780913467" EndTime="797930467" />
+      <DeleteIntervalProject StartTime="822121300" EndTime="834333500" />
       <DeleteIntervalProject StartTime="887419867" EndTime="2855820366" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
@@ -147,7 +168,7 @@
       <DeleteIntervalProject StartTime="333841170" EndTime="1325483000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -181,10 +202,12 @@
     <EditRotate>0</EditRotate>
     <DeleteInterval>
       <DeleteIntervalProject StartTime="0" EndTime="483480000" />
+      <DeleteIntervalProject StartTime="509480000" EndTime="524160000" />
+      <DeleteIntervalProject StartTime="524200000" EndTime="524400000" />
       <DeleteIntervalProject StartTime="696800000" EndTime="1764040000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -203,7 +226,7 @@
       <DeleteIntervalProject StartTime="339887563" EndTime="1281835000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -221,7 +244,7 @@
       <DeleteIntervalProject StartTime="306277277" EndTime="1179200200" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -240,7 +263,7 @@
       <DeleteIntervalProject StartTime="306943755" EndTime="1398102000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -259,7 +282,7 @@
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
     <IsFrameCropped>false</IsFrameCropped>
-    <IsFrameCroppedManually>false</IsFrameCroppedManually>
+    <IsFrameCroppedManually>true</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
     <FilePath>\\192.168.16.25\w\backup\source\[wowg] a date in a shower_vanessa-1080.mp4</FilePath>
@@ -294,7 +317,7 @@
       <DeleteIntervalProject StartTime="849738533" EndTime="1984221000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -312,7 +335,7 @@
       <DeleteIntervalProject StartTime="1156956956" EndTime="2265385211" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -330,7 +353,7 @@
       <DeleteIntervalProject StartTime="387280000" EndTime="2123280000" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Track xsi:type="VideoTrackProject">
@@ -365,7 +388,7 @@
       <DeleteIntervalProject StartTime="0" EndTime="85718967" />
     </DeleteInterval>
     <IsTrackEdited>true</IsTrackEdited>
-    <IsFrameCropped>false</IsFrameCropped>
+    <IsFrameCropped>true</IsFrameCropped>
     <IsFrameCroppedManually>false</IsFrameCroppedManually>
   </Track>
   <Options>
