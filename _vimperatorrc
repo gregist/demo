@@ -1,0 +1,43 @@
+"3.8.2 (created: 2014/02/13 23:52:43)
+
+set history=10000
+set incsearch
+
+noremap v ;F
+
+noremap <Left> :tabprevious<Return>
+noremap <Right> :tabnext<Return>
+noremap h :tabprevious<Return>
+noremap l :tabnext<Return>
+noremap d :tabclose!<Return>
+
+noremap <lt> <c-o>
+noremap > <c-i>
+
+noremap U :undo<Space>
+nnoremap <C-g> g<C-g>
+
+map <S-Right> :tabmove! +1<CR>
+map <S-Left> :tabmove! -1<CR>
+
+noremap j 7j
+noremap k 7k
+noremap <C-a> <Ins><C-a><Ins>
+
+set focuscontent
+set hlsearch
+
+noremap <Leader>p :setlocal apptab!<CR>
+
+set hintchars=hjklasdfgyuiopqwertnmzxcvb
+
+source ~/git/vimperator-plugins/_libly.js
+source ~/git/vimperator-plugins/feedSomeKeys_3.js
+
+command! -nargs=+ lazy autocmd VimperatorEnter .* <args>
+lazy fmaps -u='twitter\.com' n . gh gn ga gr gd gp gf gl gm gs gu
+
+ignorekeys clear
+ignorekeys add keep\.google\.com -except h,l,<Left>,<Right>,:,d,r,t
+ignorekeys add feedly\.com -except h,l,<Left>,<Right>,:,d,r,t
+ignorekeys add ^chrome:\/\/zotero\/content\/tab\.xul -except h,l,<Left>,<Right>,:,d,r,t
